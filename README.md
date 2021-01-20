@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**vikas-099/vikas-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vikas-099/vikas-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### I am Vikas
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning Web Development, Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on Open Source Projects of Web Development.
+- 🤔 I’m looking for help with ReactJS & NodeJS.
+- 💬 Ask me about C++,Python,Java,HTML & CSS.
+- 📫 How to reach me: technovikas06@gmail.com
 
-Here are some ideas to get you started:
+## :man_student: Student at Delhi Technological University!
+- Class of 2022
+- Electronics Major
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_COLOR }}
+{{ LANGUAGE_TEMPLATE_END }}
+
+
+
