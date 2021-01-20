@@ -12,7 +12,7 @@
 
 ## :man_student: Student at Delhi Technological University!
 - Class of 2022
-- Electronics Major
+- Electronics Major (Engineering Physics)
 
 ## 🖥️ Languages and Tools:
 
